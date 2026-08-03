@@ -1,0 +1,927 @@
+trabajo,nivel_educativo,grupo_etario,estado_civil,total_contactos,total_conversiones,tasa_conversion_pct,duracion_media_minutos,promedio_contactos_por_cliente
+student,basic.9y,18-29,single,89,35,39.33,4.78,1.93
+student,Sin Información,18-29,single,107,43,40.19,4.9,2.0
+student,basic.4y,18-29,single,23,8,34.78,5.11,1.78
+student,basic.6y,18-29,single,12,7,58.33,5.38,1.58
+student,high.school,18-29,single,316,104,32.91,4.52,1.99
+admin.,high.school,18-29,single,418,76,18.18,4.56,2.59
+blue-collar,basic.4y,18-29,married,75,4,5.33,4.65,2.32
+blue-collar,basic.4y,18-29,single,71,3,4.23,3.88,2.86
+blue-collar,basic.9y,18-29,single,308,24,7.79,4.57,2.46
+blue-collar,high.school,18-29,single,122,18,14.75,5.17,2.16
+entrepreneur,high.school,18-29,single,12,1,8.33,5.6,1.58
+services,high.school,18-29,single,318,39,12.26,4.77,2.57
+services,Sin Información,18-29,single,18,7,38.89,6.02,3.39
+student,university.degree,18-29,single,93,18,19.35,4.62,2.28
+technician,professional.course,18-29,single,251,41,16.33,4.31,2.31
+technician,Sin Información,18-29,single,13,2,15.38,3.94,3.0
+technician,university.degree,18-29,single,178,35,19.66,4.7,2.57
+admin.,Sin Información,18-29,married,11,2,18.18,4.21,2.0
+admin.,basic.9y,18-29,single,57,5,8.77,3.67,5.49
+admin.,university.degree,18-29,single,624,138,22.12,4.17,2.37
+blue-collar,basic.9y,18-29,married,281,17,6.05,4.49,2.4
+housemaid,high.school,18-29,single,11,2,18.18,9.14,2.55
+management,university.degree,18-29,single,111,18,16.22,4.26,2.05
+self-employed,university.degree,18-29,single,92,12,13.04,3.92,2.32
+services,basic.9y,18-29,single,46,1,2.17,4.03,2.26
+services,professional.course,18-29,single,30,6,20.0,4.12,2.03
+student,professional.course,18-29,single,24,12,50.0,3.67,1.88
+unemployed,high.school,18-29,married,20,4,20.0,3.51,3.75
+unemployed,high.school,18-29,single,29,7,24.14,3.58,2.17
+admin.,high.school,18-29,married,203,22,10.84,4.29,2.69
+blue-collar,professional.course,18-29,married,25,1,4.0,4.68,3.6
+blue-collar,basic.6y,18-29,single,64,8,12.5,5.47,2.58
+blue-collar,Sin Información,18-29,single,20,2,10.0,4.07,2.95
+self-employed,professional.course,18-29,single,10,2,20.0,4.54,2.4
+services,basic.9y,18-29,married,32,5,15.63,5.1,1.91
+services,high.school,18-29,married,161,12,7.45,4.26,2.69
+services,basic.4y,18-29,single,4,0,0.0,3.25,1.75
+technician,basic.9y,18-29,married,21,2,9.52,5.51,1.86
+technician,basic.9y,18-29,single,40,8,20.0,3.53,2.25
+unemployed,university.degree,18-29,single,33,8,24.24,3.63,2.15
+admin.,basic.9y,18-29,married,20,6,30.0,5.32,2.1
+admin.,professional.course,18-29,married,16,1,6.25,5.68,2.13
+admin.,professional.course,18-29,single,42,8,19.05,5.23,2.12
+admin.,Sin Información,18-29,single,21,8,38.1,5.16,2.67
+blue-collar,basic.6y,18-29,married,71,4,5.63,3.86,2.93
+blue-collar,high.school,18-29,married,47,1,2.13,3.26,2.57
+blue-collar,professional.course,18-29,single,24,4,16.67,6.58,2.96
+entrepreneur,professional.course,18-29,married,11,0,0.0,5.55,2.18
+entrepreneur,university.degree,18-29,married,18,0,0.0,4.74,2.22
+housemaid,basic.4y,18-29,single,1,0,0.0,0.15,6.0
+retired,professional.course,18-29,single,1,0,0.0,1.7,2.0
+self-employed,basic.9y,18-29,single,5,0,0.0,2.07,4.4
+technician,professional.course,18-29,married,91,12,13.19,4.23,2.86
+technician,high.school,18-29,single,80,11,13.75,4.3,3.15
+unemployed,basic.9y,18-29,single,8,2,25.0,3.9,2.63
+admin.,university.degree,18-29,married,169,26,15.38,3.83,2.39
+blue-collar,basic.9y,18-29,divorced,6,0,0.0,4.28,1.83
+blue-collar,high.school,18-29,divorced,11,2,18.18,5.53,1.36
+entrepreneur,university.degree,18-29,single,17,2,11.76,5.61,3.18
+housemaid,basic.9y,18-29,married,6,0,0.0,4.32,2.67
+management,basic.9y,18-29,married,6,0,0.0,2.55,3.5
+management,Sin Información,18-29,married,1,0,0.0,1.55,5.0
+management,university.degree,18-29,married,35,7,20.0,4.6,2.46
+self-employed,Sin Información,18-29,single,4,2,50.0,6.46,3.0
+services,professional.course,18-29,married,12,2,16.67,7.3,2.33
+services,university.degree,18-29,single,41,5,12.2,3.56,2.59
+Sin Información,university.degree,18-29,single,11,7,63.64,8.86,1.64
+student,university.degree,18-29,married,13,1,7.69,3.49,2.31
+technician,professional.course,18-29,divorced,13,1,7.69,3.52,3.0
+technician,high.school,18-29,married,17,3,17.65,4.12,2.18
+technician,Sin Información,18-29,married,5,0,0.0,4.0,1.8
+technician,university.degree,18-29,married,60,5,8.33,3.77,2.48
+technician,basic.6y,18-29,single,7,1,14.29,5.95,7.0
+unemployed,university.degree,18-29,married,15,2,13.33,4.88,2.93
+admin.,professional.course,18-29,divorced,4,0,0.0,10.47,2.75
+admin.,university.degree,18-29,divorced,9,2,22.22,5.42,2.22
+entrepreneur,basic.9y,18-29,single,3,0,0.0,3.42,1.67
+entrepreneur,professional.course,18-29,single,3,0,0.0,6.68,1.0
+housemaid,basic.4y,18-29,married,5,0,0.0,8.06,1.2
+housemaid,basic.9y,18-29,single,2,0,0.0,8.57,4.5
+management,basic.6y,18-29,married,2,0,0.0,2.53,1.5
+management,basic.4y,18-29,single,2,0,0.0,1.71,2.5
+self-employed,university.degree,18-29,divorced,6,3,50.0,3.02,2.0
+self-employed,professional.course,18-29,married,11,3,27.27,5.55,1.73
+self-employed,university.degree,18-29,married,39,4,10.26,3.24,2.03
+services,basic.4y,18-29,divorced,1,0,0.0,10.02,1.0
+services,high.school,18-29,divorced,26,2,7.69,3.88,2.23
+services,basic.6y,18-29,single,8,1,12.5,4.56,2.13
+student,high.school,18-29,married,4,0,0.0,1.43,2.0
+technician,high.school,18-29,divorced,5,0,0.0,3.43,1.4
+technician,university.degree,18-29,divorced,9,1,11.11,4.32,1.33
+technician,university.degree,18-29,Sin Información,2,0,0.0,4.14,1.5
+unemployed,professional.course,18-29,single,4,0,0.0,2.7,3.0
+admin.,basic.9y,18-29,divorced,6,0,0.0,3.79,2.67
+admin.,high.school,18-29,divorced,11,0,0.0,3.33,3.18
+admin.,basic.4y,18-29,single,1,0,0.0,1.13,6.0
+blue-collar,Sin Información,18-29,married,11,0,0.0,2.97,2.36
+blue-collar,university.degree,18-29,married,4,0,0.0,2.34,6.25
+blue-collar,university.degree,18-29,single,11,4,36.36,4.57,1.82
+entrepreneur,basic.4y,18-29,married,10,0,0.0,5.89,2.2
+entrepreneur,basic.9y,18-29,married,11,3,27.27,6.95,1.64
+entrepreneur,Sin Información,18-29,married,1,0,0.0,3.23,3.0
+housemaid,university.degree,18-29,married,4,0,0.0,3.11,2.0
+housemaid,Sin Información,18-29,single,1,0,0.0,2.33,3.0
+management,basic.9y,18-29,single,9,1,11.11,5.63,1.33
+retired,high.school,18-29,single,1,0,0.0,8.47,1.0
+self-employed,basic.4y,18-29,married,2,0,0.0,1.25,3.5
+self-employed,high.school,18-29,married,5,0,0.0,3.55,4.6
+services,basic.6y,18-29,divorced,4,0,0.0,3.14,6.5
+services,professional.course,18-29,divorced,1,0,0.0,4.02,1.0
+Sin Información,basic.9y,18-29,single,6,0,0.0,2.85,2.17
+Sin Información,high.school,18-29,single,5,1,20.0,6.26,4.8
+technician,Sin Información,18-29,divorced,2,0,0.0,3.1,2.5
+technician,basic.6y,18-29,married,4,0,0.0,2.22,5.75
+unemployed,basic.4y,18-29,married,4,1,25.0,4.76,2.75
+unemployed,basic.9y,18-29,married,4,0,0.0,3.54,4.5
+admin.,basic.6y,18-29,married,5,0,0.0,4.87,3.0
+admin.,basic.6y,18-29,single,2,0,0.0,2.75,3.5
+blue-collar,Sin Información,18-29,divorced,4,0,0.0,9.19,3.25
+blue-collar,high.school,18-29,Sin Información,2,1,50.0,3.04,1.5
+entrepreneur,university.degree,18-29,divorced,1,0,0.0,0.15,5.0
+entrepreneur,high.school,18-29,married,8,1,12.5,8.42,2.0
+housemaid,basic.6y,18-29,married,2,1,50.0,5.38,7.0
+housemaid,high.school,18-29,married,9,1,11.11,4.32,4.0
+housemaid,university.degree,18-29,single,3,1,33.33,2.59,3.67
+management,high.school,18-29,single,5,0,0.0,2.45,2.6
+management,professional.course,18-29,single,1,1,100.0,5.42,1.0
+retired,basic.9y,18-29,single,1,0,0.0,2.02,1.0
+self-employed,basic.9y,18-29,married,6,1,16.67,5.15,3.5
+services,basic.6y,18-29,married,3,0,0.0,6.72,1.67
+services,university.degree,18-29,married,6,1,16.67,4.88,1.33
+student,Sin Información,18-29,divorced,1,0,0.0,0.15,1.0
+unemployed,basic.6y,18-29,married,3,0,0.0,2.96,3.33
+unemployed,basic.4y,18-29,single,6,1,16.67,3.81,1.67
+blue-collar,basic.4y,18-29,divorced,6,1,16.67,8.12,1.83
+housemaid,basic.6y,18-29,single,1,0,0.0,1.57,1.0
+management,high.school,18-29,married,4,0,0.0,3.44,2.25
+management,Sin Información,18-29,single,3,0,0.0,3.12,3.0
+self-employed,high.school,18-29,single,2,0,0.0,3.34,4.5
+services,Sin Información,18-29,married,9,0,0.0,3.37,1.78
+Sin Información,Sin Información,18-29,single,2,1,50.0,11.42,1.0
+unemployed,professional.course,18-29,married,5,3,60.0,3.5,4.8
+admin.,Sin Información,18-29,divorced,1,0,0.0,3.7,1.0
+admin.,professional.course,18-29,Sin Información,1,0,0.0,2.08,1.0
+admin.,university.degree,18-29,Sin Información,1,0,0.0,4.4,2.0
+blue-collar,basic.6y,18-29,divorced,1,0,0.0,4.53,2.0
+entrepreneur,basic.9y,18-29,divorced,2,0,0.0,5.41,1.0
+entrepreneur,basic.6y,18-29,married,5,0,0.0,3.98,3.6
+entrepreneur,basic.4y,18-29,single,1,0,0.0,1.67,1.0
+management,basic.9y,18-29,divorced,2,0,0.0,1.58,1.5
+retired,basic.4y,18-29,single,1,0,0.0,5.23,7.0
+self-employed,basic.6y,18-29,married,2,0,0.0,0.47,6.0
+self-employed,Sin Información,18-29,married,1,0,0.0,2.08,2.0
+Sin Información,university.degree,18-29,married,1,0,0.0,4.7,2.0
+technician,high.school,18-29,Sin Información,3,0,0.0,4.76,1.67
+unemployed,high.school,18-29,divorced,2,0,0.0,2.28,1.5
+unemployed,university.degree,18-29,divorced,2,0,0.0,4.29,2.5
+admin.,basic.6y,30-39,divorced,3,0,0.0,6.56,4.33
+admin.,high.school,30-39,divorced,174,8,4.6,3.98,2.88
+admin.,university.degree,30-39,divorced,229,24,10.48,4.0,2.51
+admin.,basic.6y,30-39,married,38,2,5.26,4.25,3.34
+admin.,basic.9y,30-39,married,73,1,1.37,4.02,2.11
+admin.,high.school,30-39,married,756,72,9.52,4.21,2.51
+admin.,professional.course,30-39,married,82,10,12.2,4.13,2.29
+admin.,Sin Información,30-39,married,29,2,6.9,3.35,2.9
+admin.,university.degree,30-39,married,1426,195,13.67,4.27,2.59
+admin.,basic.9y,30-39,single,50,5,10.0,4.61,2.6
+admin.,high.school,30-39,single,537,66,12.29,4.21,2.71
+admin.,professional.course,30-39,single,42,6,14.29,4.58,2.57
+admin.,university.degree,30-39,single,1371,178,12.98,4.15,2.6
+blue-collar,basic.4y,30-39,divorced,28,2,7.14,5.49,2.82
+blue-collar,basic.6y,30-39,divorced,28,2,7.14,5.45,2.14
+blue-collar,basic.9y,30-39,divorced,130,11,8.46,4.86,2.41
+blue-collar,high.school,30-39,divorced,30,4,13.33,4.37,2.17
+blue-collar,basic.4y,30-39,married,441,18,4.08,4.32,2.84
+blue-collar,basic.6y,30-39,married,555,42,7.57,4.44,2.4
+blue-collar,basic.9y,30-39,married,1167,70,6.0,4.34,2.53
+blue-collar,high.school,30-39,married,227,19,8.37,4.25,2.52
+blue-collar,professional.course,30-39,married,153,9,5.88,4.07,2.27
+blue-collar,Sin Información,30-39,married,91,6,6.59,4.24,2.87
+blue-collar,university.degree,30-39,married,14,1,7.14,5.05,2.36
+blue-collar,basic.4y,30-39,single,130,6,4.62,4.21,3.14
+blue-collar,basic.6y,30-39,single,91,9,9.89,4.74,2.47
+blue-collar,basic.9y,30-39,single,329,25,7.6,4.26,2.6
+blue-collar,high.school,30-39,single,195,28,14.36,4.78,2.59
+blue-collar,professional.course,30-39,single,45,3,6.67,3.5,3.0
+blue-collar,Sin Información,30-39,single,40,2,5.0,4.92,2.48
+blue-collar,university.degree,30-39,single,45,2,4.44,3.59,2.67
+entrepreneur,basic.6y,30-39,divorced,3,0,0.0,3.46,2.67
+entrepreneur,high.school,30-39,divorced,24,2,8.33,4.65,2.33
+entrepreneur,university.degree,30-39,divorced,23,2,8.7,2.77,3.13
+entrepreneur,basic.6y,30-39,married,35,6,17.14,4.01,2.46
+entrepreneur,basic.9y,30-39,married,62,1,1.61,3.99,2.18
+entrepreneur,high.school,30-39,married,74,3,4.05,4.62,2.34
+entrepreneur,professional.course,30-39,married,35,3,8.57,4.22,2.66
+entrepreneur,university.degree,30-39,married,151,14,9.27,4.3,2.62
+entrepreneur,basic.9y,30-39,single,17,1,5.88,4.17,2.53
+entrepreneur,high.school,30-39,single,8,0,0.0,3.81,3.13
+entrepreneur,university.degree,30-39,single,67,10,14.93,4.84,2.49
+housemaid,basic.6y,30-39,married,21,1,4.76,3.26,3.29
+housemaid,high.school,30-39,married,56,1,1.79,3.33,2.98
+housemaid,professional.course,30-39,married,7,0,0.0,2.31,1.43
+housemaid,university.degree,30-39,married,39,4,10.26,4.26,2.59
+housemaid,university.degree,30-39,single,17,2,11.76,2.53,3.0
+management,basic.4y,30-39,divorced,4,0,0.0,3.54,4.0
+management,high.school,30-39,divorced,10,1,10.0,5.9,3.2
+management,university.degree,30-39,divorced,62,15,24.19,5.24,3.11
+management,basic.9y,30-39,married,27,2,7.41,4.34,2.11
+management,high.school,30-39,married,77,5,6.49,4.34,2.39
+management,university.degree,30-39,married,539,65,12.06,4.13,2.46
+management,basic.9y,30-39,single,15,1,6.67,4.6,1.87
+management,high.school,30-39,single,29,1,3.45,4.84,1.83
+management,university.degree,30-39,single,224,28,12.5,4.24,2.65
+retired,basic.9y,30-39,single,2,0,0.0,1.35,4.5
+self-employed,basic.9y,30-39,married,79,9,11.39,5.03,2.18
+self-employed,high.school,30-39,married,21,0,0.0,3.85,3.48
+self-employed,professional.course,30-39,married,39,5,12.82,4.35,2.87
+self-employed,university.degree,30-39,married,144,16,11.11,3.75,2.76
+self-employed,basic.9y,30-39,single,7,0,0.0,3.74,2.43
+self-employed,high.school,30-39,single,24,0,0.0,3.07,1.83
+self-employed,university.degree,30-39,single,151,28,18.54,4.79,2.01
+services,basic.9y,30-39,divorced,29,1,3.45,4.06,1.9
+services,high.school,30-39,divorced,114,2,1.75,3.93,1.92
+services,basic.6y,30-39,married,42,6,14.29,5.74,2.4
+services,basic.9y,30-39,married,101,10,9.9,4.28,1.9
+services,high.school,30-39,married,722,54,7.48,4.49,2.5
+services,professional.course,30-39,married,58,5,8.62,3.81,2.83
+services,Sin Información,30-39,married,17,1,5.88,4.03,3.65
+services,university.degree,30-39,married,36,3,8.33,2.8,2.53
+services,basic.6y,30-39,single,28,3,10.71,5.55,2.64
+services,basic.9y,30-39,single,49,5,10.2,4.78,2.82
+services,high.school,30-39,single,354,31,8.76,4.27,2.84
+services,professional.course,30-39,single,26,2,7.69,4.23,1.69
+services,Sin Información,30-39,single,14,3,21.43,6.0,2.29
+services,university.degree,30-39,single,34,7,20.59,4.48,2.35
+Sin Información,university.degree,30-39,divorced,1,0,0.0,1.77,1.0
+Sin Información,professional.course,30-39,married,2,0,0.0,6.32,1.0
+Sin Información,university.degree,30-39,married,5,0,0.0,2.96,1.8
+Sin Información,university.degree,30-39,single,6,0,0.0,2.49,1.83
+student,university.degree,30-39,married,4,3,75.0,4.45,2.5
+student,basic.9y,30-39,Sin Información,1,0,0.0,2.58,1.0
+student,basic.4y,30-39,single,3,0,0.0,7.5,2.0
+student,basic.9y,30-39,single,7,0,0.0,5.25,1.71
+student,high.school,30-39,single,25,8,32.0,6.76,2.4
+student,professional.course,30-39,single,12,2,16.67,5.59,2.92
+student,Sin Información,30-39,single,50,14,28.0,5.05,2.14
+student,university.degree,30-39,single,56,11,19.64,4.75,2.38
+technician,basic.9y,30-39,divorced,14,0,0.0,3.39,1.36
+technician,high.school,30-39,divorced,53,5,9.43,2.9,2.75
+technician,professional.course,30-39,divorced,179,17,9.5,4.21,2.63
+technician,university.degree,30-39,divorced,34,6,17.65,4.56,2.32
+technician,basic.6y,30-39,married,22,1,4.55,3.36,2.64
+technician,basic.9y,30-39,married,78,7,8.97,4.73,2.22
+technician,high.school,30-39,married,216,18,8.33,4.34,2.73
+technician,professional.course,30-39,married,876,96,10.96,4.2,2.55
+technician,university.degree,30-39,married,480,53,11.04,3.98,2.38
+technician,university.degree,30-39,Sin Información,3,2,66.67,7.11,2.0
+technician,basic.6y,30-39,single,5,0,0.0,4.04,1.4
+technician,basic.9y,30-39,single,35,3,8.57,2.94,2.03
+technician,high.school,30-39,single,164,13,7.93,4.46,2.62
+technician,professional.course,30-39,single,600,64,10.67,4.14,2.54
+technician,Sin Información,30-39,single,27,3,11.11,4.3,2.07
+technician,university.degree,30-39,single,527,74,14.04,4.27,2.77
+unemployed,high.school,30-39,divorced,15,1,6.67,2.69,1.73
+unemployed,basic.6y,30-39,married,8,1,12.5,4.46,2.75
+unemployed,basic.9y,30-39,married,44,2,4.55,3.95,2.3
+unemployed,high.school,30-39,married,50,9,18.0,4.05,2.08
+unemployed,professional.course,30-39,married,38,4,10.53,5.4,2.58
+unemployed,Sin Información,30-39,married,4,1,25.0,2.7,2.5
+unemployed,university.degree,30-39,married,71,10,14.08,3.47,3.11
+unemployed,basic.4y,30-39,single,11,0,0.0,4.27,2.55
+unemployed,basic.9y,30-39,single,13,3,23.08,5.67,2.38
+unemployed,high.school,30-39,single,31,5,16.13,5.37,3.0
+unemployed,professional.course,30-39,single,15,2,13.33,4.19,2.27
+unemployed,Sin Información,30-39,single,4,2,50.0,7.9,3.25
+unemployed,university.degree,30-39,single,61,14,22.95,3.09,2.03
+admin.,professional.course,30-39,divorced,6,2,33.33,4.8,2.0
+admin.,high.school,30-39,Sin Información,1,0,0.0,3.03,8.0
+blue-collar,professional.course,30-39,divorced,12,1,8.33,4.12,5.0
+blue-collar,Sin Información,30-39,divorced,17,1,5.88,5.06,2.41
+blue-collar,Sin Información,30-39,Sin Información,1,0,0.0,2.83,2.0
+entrepreneur,basic.4y,30-39,divorced,4,0,0.0,8.05,1.5
+entrepreneur,university.degree,30-39,Sin Información,2,1,50.0,2.68,2.5
+entrepreneur,basic.6y,30-39,single,4,1,25.0,4.79,2.5
+housemaid,basic.6y,30-39,divorced,3,0,0.0,4.57,1.67
+housemaid,high.school,30-39,divorced,8,1,12.5,4.33,1.88
+housemaid,basic.4y,30-39,married,81,1,1.23,3.28,3.09
+housemaid,basic.9y,30-39,married,23,2,8.7,4.41,2.0
+housemaid,high.school,30-39,single,14,2,14.29,5.45,2.36
+housemaid,professional.course,30-39,single,5,0,0.0,2.3,2.4
+management,basic.6y,30-39,divorced,2,0,0.0,3.91,4.0
+management,professional.course,30-39,single,8,1,12.5,3.05,4.38
+self-employed,basic.9y,30-39,divorced,10,0,0.0,2.49,3.1
+self-employed,university.degree,30-39,divorced,18,0,0.0,4.59,2.89
+self-employed,basic.4y,30-39,married,18,0,0.0,6.19,2.72
+self-employed,professional.course,30-39,Sin Información,2,0,0.0,7.4,3.0
+self-employed,professional.course,30-39,single,11,1,9.09,3.11,3.09
+services,professional.course,30-39,divorced,13,0,0.0,4.34,2.46
+Sin Información,high.school,30-39,single,5,1,20.0,5.8,2.2
+student,high.school,30-39,married,10,2,20.0,5.2,2.6
+technician,Sin Información,30-39,married,31,7,22.58,5.74,1.77
+unemployed,basic.4y,30-39,divorced,6,1,16.67,4.52,1.83
+unemployed,Sin Información,30-39,divorced,1,0,0.0,3.78,1.0
+unemployed,university.degree,30-39,divorced,5,0,0.0,2.94,2.6
+admin.,basic.9y,30-39,divorced,15,1,6.67,4.86,3.13
+admin.,Sin Información,30-39,single,27,1,3.7,4.33,3.19
+blue-collar,university.degree,30-39,divorced,2,0,0.0,1.22,1.5
+blue-collar,basic.9y,30-39,Sin Información,2,1,50.0,3.29,3.0
+entrepreneur,basic.4y,30-39,married,18,2,11.11,5.45,2.94
+entrepreneur,Sin Información,30-39,married,9,1,11.11,5.6,1.56
+entrepreneur,professional.course,30-39,single,13,1,7.69,2.8,4.08
+housemaid,basic.4y,30-39,single,10,1,10.0,4.04,2.1
+housemaid,basic.9y,30-39,single,2,0,0.0,3.46,2.0
+management,basic.6y,30-39,married,13,2,15.38,3.58,2.38
+management,professional.course,30-39,married,19,1,5.26,4.0,2.05
+management,basic.4y,30-39,single,1,0,0.0,1.22,7.0
+retired,basic.4y,30-39,married,2,0,0.0,7.83,7.5
+retired,high.school,30-39,married,5,1,20.0,4.99,6.8
+self-employed,professional.course,30-39,divorced,8,0,0.0,4.56,2.13
+self-employed,basic.6y,30-39,married,7,0,0.0,6.64,3.0
+services,basic.4y,30-39,married,16,1,6.25,4.87,2.31
+Sin Información,basic.6y,30-39,married,5,0,0.0,4.52,1.6
+Sin Información,basic.9y,30-39,married,11,0,0.0,3.86,2.0
+Sin Información,university.degree,30-39,Sin Información,4,1,25.0,3.81,3.5
+Sin Información,basic.6y,30-39,single,4,1,25.0,11.85,2.25
+Sin Información,basic.9y,30-39,single,1,0,0.0,5.03,1.0
+Sin Información,professional.course,30-39,single,3,1,33.33,12.21,1.0
+student,professional.course,30-39,married,6,2,33.33,3.68,1.5
+admin.,basic.6y,30-39,single,11,0,0.0,3.05,2.82
+housemaid,professional.course,30-39,divorced,2,0,0.0,3.75,1.5
+housemaid,university.degree,30-39,divorced,7,2,28.57,6.91,2.14
+housemaid,university.degree,30-39,Sin Información,2,0,0.0,1.31,2.0
+management,basic.4y,30-39,married,9,1,11.11,3.53,2.89
+management,Sin Información,30-39,single,8,1,12.5,6.34,2.25
+self-employed,Sin Información,30-39,divorced,1,0,0.0,19.35,4.0
+self-employed,basic.4y,30-39,single,8,0,0.0,4.11,2.0
+services,Sin Información,30-39,divorced,4,0,0.0,2.87,1.5
+services,university.degree,30-39,divorced,11,2,18.18,4.66,1.82
+services,high.school,30-39,Sin Información,4,0,0.0,4.38,6.5
+Sin Información,Sin Información,30-39,married,11,0,0.0,2.6,3.18
+student,professional.course,30-39,divorced,1,1,100.0,18.5,1.0
+technician,professional.course,30-39,Sin Información,2,0,0.0,4.09,1.5
+unemployed,basic.9y,30-39,divorced,6,1,16.67,7.77,3.67
+unemployed,professional.course,30-39,divorced,11,0,0.0,5.93,2.18
+unemployed,basic.4y,30-39,married,17,2,11.76,4.17,3.88
+admin.,university.degree,30-39,Sin Información,9,1,11.11,4.74,1.22
+entrepreneur,Sin Información,30-39,single,1,0,0.0,5.3,1.0
+housemaid,Sin Información,30-39,married,2,0,0.0,4.35,2.0
+management,professional.course,30-39,divorced,4,0,0.0,1.86,2.0
+management,Sin Información,30-39,divorced,4,0,0.0,2.67,2.0
+management,Sin Información,30-39,married,14,3,21.43,6.34,4.0
+self-employed,illiterate,30-39,married,3,1,33.33,3.62,1.0
+services,basic.6y,30-39,divorced,14,1,7.14,5.39,2.07
+Sin Información,basic.4y,30-39,divorced,1,0,0.0,1.22,1.0
+Sin Información,basic.4y,30-39,married,7,1,14.29,3.55,2.0
+student,basic.6y,30-39,divorced,1,0,0.0,7.78,1.0
+student,university.degree,30-39,divorced,4,2,50.0,4.5,2.5
+technician,basic.6y,30-39,divorced,1,1,100.0,11.93,3.0
+technician,Sin Información,30-39,divorced,10,0,0.0,3.21,7.2
+admin.,basic.4y,30-39,single,10,0,0.0,5.18,1.6
+entrepreneur,professional.course,30-39,divorced,2,1,50.0,10.04,2.0
+housemaid,basic.9y,30-39,divorced,9,1,11.11,3.49,1.33
+housemaid,Sin Información,30-39,single,1,0,0.0,1.1,1.0
+retired,professional.course,30-39,married,2,0,0.0,7.14,1.5
+retired,basic.6y,30-39,single,3,0,0.0,4.05,2.0
+self-employed,university.degree,30-39,Sin Información,1,0,0.0,3.68,1.0
+self-employed,basic.6y,30-39,single,2,0,0.0,2.65,2.0
+services,basic.4y,30-39,single,5,1,20.0,10.96,1.4
+Sin Información,basic.4y,30-39,single,3,0,0.0,3.21,3.67
+student,basic.9y,30-39,married,2,0,0.0,4.39,3.5
+technician,basic.4y,30-39,divorced,3,3,100.0,7.01,1.67
+unemployed,basic.6y,30-39,single,3,0,0.0,2.03,1.33
+entrepreneur,basic.4y,30-39,single,3,1,33.33,1.99,2.0
+housemaid,basic.4y,30-39,divorced,4,0,0.0,2.99,1.25
+management,basic.6y,30-39,single,1,0,0.0,3.63,2.0
+retired,Sin Información,30-39,married,2,0,0.0,2.98,1.5
+retired,university.degree,30-39,single,1,0,0.0,1.55,4.0
+self-employed,basic.4y,30-39,divorced,4,0,0.0,5.38,1.75
+services,basic.4y,30-39,divorced,3,0,0.0,2.17,6.67
+Sin Información,Sin Información,30-39,single,1,0,0.0,4.92,2.0
+technician,basic.4y,30-39,married,2,1,50.0,9.15,1.5
+admin.,basic.4y,30-39,married,3,0,0.0,2.98,1.67
+blue-collar,basic.6y,30-39,Sin Información,2,0,0.0,1.95,3.0
+management,high.school,30-39,Sin Información,1,0,0.0,1.58,6.0
+retired,basic.9y,30-39,divorced,5,0,0.0,3.6,1.4
+self-employed,high.school,30-39,divorced,4,3,75.0,3.93,1.75
+student,Sin Información,30-39,married,1,0,0.0,1.83,17.0
+unemployed,university.degree,30-39,Sin Información,1,0,0.0,1.67,1.0
+blue-collar,high.school,30-39,Sin Información,1,0,0.0,5.18,1.0
+entrepreneur,basic.9y,30-39,divorced,3,0,0.0,2.74,2.67
+self-employed,Sin Información,30-39,married,1,0,0.0,1.97,1.0
+self-employed,Sin Información,30-39,single,3,0,0.0,7.42,4.67
+Sin Información,high.school,30-39,divorced,3,0,0.0,1.74,1.67
+student,Sin Información,30-39,divorced,2,0,0.0,4.27,3.0
+management,basic.9y,30-39,divorced,1,0,0.0,1.43,1.0
+retired,basic.4y,30-39,divorced,2,0,0.0,3.31,1.5
+retired,high.school,30-39,single,2,0,0.0,4.65,2.5
+technician,basic.4y,30-39,single,1,0,0.0,6.85,2.0
+admin.,basic.6y,40-49,divorced,7,0,0.0,2.78,2.86
+admin.,basic.9y,40-49,divorced,28,2,7.14,5.01,2.25
+admin.,high.school,40-49,divorced,179,25,13.97,5.16,2.6
+admin.,professional.course,40-49,divorced,24,1,4.17,2.83,3.33
+admin.,university.degree,40-49,divorced,243,27,11.11,3.96,2.76
+admin.,basic.6y,40-49,married,41,5,12.2,4.85,2.27
+admin.,basic.9y,40-49,married,112,5,4.46,4.16,2.82
+admin.,high.school,40-49,married,482,46,9.54,4.36,2.65
+admin.,professional.course,40-49,married,64,4,6.25,3.88,1.81
+admin.,Sin Información,40-49,married,60,8,13.33,4.78,2.8
+admin.,university.degree,40-49,married,686,83,12.1,4.04,2.83
+admin.,basic.9y,40-49,single,22,4,18.18,4.61,2.55
+admin.,high.school,40-49,single,188,17,9.04,4.35,2.37
+admin.,professional.course,40-49,single,19,2,10.53,3.25,3.42
+admin.,Sin Información,40-49,single,20,1,5.0,4.64,3.0
+admin.,university.degree,40-49,single,270,29,10.74,4.15,2.77
+blue-collar,basic.4y,40-49,divorced,75,4,5.33,4.41,2.59
+blue-collar,basic.6y,40-49,divorced,40,2,5.0,4.73,2.8
+blue-collar,basic.9y,40-49,divorced,109,3,2.75,4.44,2.19
+blue-collar,high.school,40-49,divorced,18,1,5.56,4.97,2.22
+blue-collar,professional.course,40-49,divorced,15,3,20.0,2.61,5.27
+blue-collar,Sin Información,40-49,divorced,18,1,5.56,3.57,2.78
+blue-collar,basic.4y,40-49,married,757,30,3.96,4.39,2.43
+blue-collar,basic.6y,40-49,married,419,24,5.73,4.27,2.43
+blue-collar,basic.9y,40-49,married,756,49,6.48,4.28,2.6
+blue-collar,high.school,40-49,married,130,9,6.92,4.14,2.67
+blue-collar,professional.course,40-49,married,104,11,10.58,4.57,3.1
+blue-collar,Sin Información,40-49,married,128,7,5.47,4.89,2.65
+blue-collar,basic.4y,40-49,single,72,2,2.78,4.18,1.96
+blue-collar,basic.6y,40-49,single,47,4,8.51,4.45,2.19
+blue-collar,basic.9y,40-49,single,89,7,7.87,4.42,2.87
+blue-collar,high.school,40-49,single,29,2,6.9,3.45,2.66
+blue-collar,professional.course,40-49,single,13,1,7.69,5.2,2.08
+blue-collar,Sin Información,40-49,single,17,1,5.88,4.23,2.88
+entrepreneur,Sin Información,40-49,divorced,5,1,20.0,4.77,1.4
+entrepreneur,university.degree,40-49,divorced,21,1,4.76,4.47,1.86
+entrepreneur,basic.4y,40-49,married,55,3,5.45,4.7,2.64
+entrepreneur,basic.6y,40-49,married,16,2,12.5,5.85,2.25
+entrepreneur,basic.9y,40-49,married,45,0,0.0,3.74,2.33
+entrepreneur,high.school,40-49,married,61,3,4.92,4.31,2.7
+entrepreneur,professional.course,40-49,married,32,2,6.25,3.37,3.13
+entrepreneur,university.degree,40-49,married,138,24,17.39,5.07,2.41
+entrepreneur,high.school,40-49,Sin Información,1,0,0.0,13.75,6.0
+entrepreneur,high.school,40-49,single,10,1,10.0,3.43,3.8
+housemaid,basic.6y,40-49,divorced,6,0,0.0,3.2,3.33
+housemaid,basic.9y,40-49,divorced,6,0,0.0,2.21,2.0
+housemaid,high.school,40-49,divorced,6,1,16.67,6.3,3.17
+housemaid,Sin Información,40-49,divorced,1,0,0.0,0.33,1.0
+housemaid,basic.4y,40-49,married,122,6,4.92,3.85,2.84
+housemaid,basic.6y,40-49,married,22,1,4.55,6.24,2.32
+housemaid,basic.9y,40-49,married,18,0,0.0,3.16,2.56
+housemaid,high.school,40-49,married,29,2,6.9,4.52,1.93
+housemaid,professional.course,40-49,single,4,2,50.0,2.17,2.0
+housemaid,university.degree,40-49,single,14,2,14.29,4.08,2.21
+management,university.degree,40-49,divorced,74,3,4.05,3.41,2.62
+management,basic.6y,40-49,married,37,6,16.22,5.17,2.05
+management,basic.9y,40-49,married,58,4,6.9,4.55,2.29
+management,high.school,40-49,married,96,4,4.17,4.44,2.44
+management,professional.course,40-49,married,18,1,5.56,5.15,1.72
+management,Sin Información,40-49,married,49,7,14.29,4.91,2.0
+management,university.degree,40-49,married,462,40,8.66,4.19,2.47
+management,basic.9y,40-49,single,6,0,0.0,4.85,1.67
+management,high.school,40-49,single,11,1,9.09,3.96,1.27
+management,university.degree,40-49,single,39,8,20.51,4.27,1.92
+retired,basic.4y,40-49,divorced,2,0,0.0,2.13,2.0
+retired,basic.4y,40-49,married,24,1,4.17,4.5,2.79
+retired,professional.course,40-49,married,3,0,0.0,2.78,6.33
+retired,basic.4y,40-49,single,5,0,0.0,5.0,1.6
+retired,high.school,40-49,single,2,1,50.0,18.35,4.0
+self-employed,basic.4y,40-49,married,26,2,7.69,3.54,2.81
+self-employed,basic.9y,40-49,married,57,3,5.26,4.66,2.7
+self-employed,high.school,40-49,married,36,3,8.33,3.87,2.31
+self-employed,professional.course,40-49,married,35,3,8.57,4.67,2.97
+self-employed,Sin Información,40-49,married,8,0,0.0,4.74,2.88
+self-employed,university.degree,40-49,married,118,13,11.02,4.94,3.18
+self-employed,university.degree,40-49,single,17,3,17.65,5.27,3.82
+services,basic.6y,40-49,divorced,12,2,16.67,5.9,2.5
+services,basic.9y,40-49,divorced,21,1,4.76,4.57,2.1
+services,high.school,40-49,divorced,139,9,6.47,4.46,2.7
+services,Sin Información,40-49,divorced,8,2,25.0,5.67,6.63
+services,basic.4y,40-49,married,38,2,5.26,4.17,2.42
+services,basic.6y,40-49,married,66,4,6.06,3.82,2.89
+services,basic.9y,40-49,married,71,2,2.82,3.68,3.18
+services,high.school,40-49,married,448,29,6.47,4.02,2.42
+services,professional.course,40-49,married,43,3,6.98,3.78,3.23
+services,Sin Información,40-49,married,32,2,6.25,3.25,3.03
+services,university.degree,40-49,married,20,2,10.0,4.51,2.5
+services,basic.6y,40-49,single,7,0,0.0,3.31,2.86
+services,high.school,40-49,single,73,4,5.48,4.92,2.73
+services,professional.course,40-49,single,9,1,11.11,3.62,2.56
+services,university.degree,40-49,single,5,2,40.0,3.49,2.0
+Sin Información,Sin Información,40-49,married,48,1,2.08,3.34,2.77
+Sin Información,Sin Información,40-49,single,6,1,16.67,6.21,2.17
+student,high.school,40-49,single,2,0,0.0,5.51,3.5
+technician,high.school,40-49,divorced,48,3,6.25,4.57,2.69
+technician,professional.course,40-49,divorced,151,10,6.62,3.75,3.05
+technician,university.degree,40-49,divorced,66,7,10.61,4.05,2.44
+technician,basic.4y,40-49,married,13,0,0.0,5.34,1.85
+technician,basic.6y,40-49,married,22,2,9.09,4.24,2.27
+technician,basic.9y,40-49,married,93,7,7.53,5.09,2.57
+technician,high.school,40-49,married,139,13,9.35,4.17,2.81
+technician,professional.course,40-49,married,556,43,7.73,3.95,2.74
+technician,university.degree,40-49,married,176,14,7.95,4.02,2.49
+technician,basic.9y,40-49,single,11,0,0.0,4.34,1.91
+technician,high.school,40-49,single,32,2,6.25,3.37,2.41
+technician,professional.course,40-49,single,134,6,4.48,3.54,2.24
+technician,Sin Información,40-49,single,18,1,5.56,3.66,3.33
+technician,university.degree,40-49,single,95,9,9.47,4.44,2.56
+unemployed,basic.4y,40-49,divorced,6,0,0.0,4.52,2.0
+unemployed,high.school,40-49,divorced,14,0,0.0,2.95,2.5
+unemployed,university.degree,40-49,divorced,8,1,12.5,5.64,2.63
+unemployed,basic.4y,40-49,married,19,0,0.0,4.71,4.05
+unemployed,basic.9y,40-49,married,56,9,16.07,3.89,2.88
+unemployed,high.school,40-49,married,50,5,10.0,4.01,1.96
+unemployed,professional.course,40-49,married,37,9,24.32,3.91,2.41
+unemployed,university.degree,40-49,married,34,1,2.94,4.42,2.29
+unemployed,basic.4y,40-49,single,9,1,11.11,2.95,1.89
+unemployed,high.school,40-49,single,5,0,0.0,2.94,2.6
+admin.,basic.4y,40-49,married,15,0,0.0,3.12,2.67
+admin.,basic.6y,40-49,single,7,0,0.0,3.55,2.43
+blue-collar,university.degree,40-49,single,5,1,20.0,7.47,1.4
+entrepreneur,basic.9y,40-49,divorced,10,0,0.0,2.87,2.1
+entrepreneur,high.school,40-49,divorced,8,1,12.5,3.04,3.25
+entrepreneur,professional.course,40-49,divorced,10,0,0.0,2.34,2.5
+entrepreneur,basic.4y,40-49,single,2,0,0.0,4.36,2.0
+entrepreneur,professional.course,40-49,single,4,0,0.0,3.3,1.75
+entrepreneur,university.degree,40-49,single,21,0,0.0,2.73,2.76
+housemaid,university.degree,40-49,divorced,3,0,0.0,5.8,3.0
+housemaid,university.degree,40-49,married,22,2,9.09,4.93,2.5
+housemaid,basic.4y,40-49,single,8,2,25.0,5.59,2.63
+management,basic.6y,40-49,divorced,5,0,0.0,3.41,2.0
+management,basic.9y,40-49,divorced,5,0,0.0,2.29,2.0
+management,high.school,40-49,divorced,13,0,0.0,3.64,1.69
+management,Sin Información,40-49,single,1,0,0.0,2.57,2.0
+self-employed,professional.course,40-49,divorced,11,2,18.18,6.16,2.82
+self-employed,university.degree,40-49,divorced,28,5,17.86,5.71,3.04
+self-employed,basic.6y,40-49,married,8,1,12.5,3.34,2.88
+services,basic.9y,40-49,single,8,1,12.5,4.0,2.63
+services,Sin Información,40-49,single,12,3,25.0,5.15,3.33
+Sin Información,basic.6y,40-49,married,9,0,0.0,4.23,3.11
+Sin Información,Sin Información,40-49,Sin Información,4,2,50.0,5.1,6.0
+Sin Información,basic.6y,40-49,single,1,0,0.0,2.08,1.0
+Sin Información,basic.9y,40-49,single,5,0,0.0,3.75,1.8
+student,Sin Información,40-49,married,1,0,0.0,1.15,5.0
+technician,basic.4y,40-49,divorced,5,0,0.0,6.75,1.6
+technician,Sin Información,40-49,married,26,3,11.54,5.07,1.88
+unemployed,professional.course,40-49,divorced,4,0,0.0,4.49,4.25
+unemployed,Sin Información,40-49,married,4,2,50.0,4.11,4.5
+blue-collar,university.degree,40-49,married,8,1,12.5,4.55,2.38
+entrepreneur,Sin Información,40-49,married,15,0,0.0,4.16,3.0
+entrepreneur,Sin Información,40-49,single,2,0,0.0,3.26,2.0
+housemaid,basic.4y,40-49,divorced,20,1,5.0,4.56,2.25
+housemaid,professional.course,40-49,married,14,3,21.43,6.98,2.29
+housemaid,Sin Información,40-49,married,4,0,0.0,3.48,2.75
+housemaid,high.school,40-49,single,5,0,0.0,2.87,2.2
+management,Sin Información,40-49,divorced,6,1,16.67,3.16,1.5
+retired,illiterate,40-49,divorced,2,1,50.0,2.28,3.5
+retired,basic.9y,40-49,married,16,0,0.0,4.1,4.25
+self-employed,basic.6y,40-49,divorced,1,0,0.0,1.57,3.0
+self-employed,high.school,40-49,divorced,5,1,20.0,6.56,3.8
+self-employed,basic.4y,40-49,single,1,0,0.0,1.67,2.0
+self-employed,professional.course,40-49,single,10,2,20.0,4.73,3.2
+services,university.degree,40-49,divorced,2,2,100.0,4.99,1.0
+Sin Información,high.school,40-49,divorced,1,0,0.0,0.95,2.0
+Sin Información,university.degree,40-49,married,7,0,0.0,4.52,1.86
+Sin Información,university.degree,40-49,single,3,2,66.67,5.4,3.33
+technician,basic.6y,40-49,divorced,1,0,0.0,3.68,1.0
+technician,basic.9y,40-49,divorced,18,1,5.56,4.22,3.28
+unemployed,basic.6y,40-49,married,11,1,9.09,5.64,2.18
+unemployed,university.degree,40-49,single,5,1,20.0,4.42,2.0
+housemaid,professional.course,40-49,divorced,3,0,0.0,4.03,2.67
+housemaid,basic.9y,40-49,single,4,0,0.0,3.34,1.25
+management,basic.4y,40-49,married,24,1,4.17,4.88,2.92
+management,basic.4y,40-49,single,2,0,0.0,9.22,2.0
+retired,high.school,40-49,married,7,1,14.29,3.51,1.43
+self-employed,basic.9y,40-49,divorced,7,0,0.0,3.95,1.29
+self-employed,high.school,40-49,single,5,0,0.0,4.06,1.2
+services,professional.course,40-49,divorced,6,0,0.0,3.21,2.67
+Sin Información,high.school,40-49,married,14,0,0.0,2.88,2.07
+technician,Sin Información,40-49,divorced,14,0,0.0,2.5,1.86
+unemployed,basic.9y,40-49,divorced,13,0,0.0,3.46,3.15
+unemployed,Sin Información,40-49,single,1,0,0.0,1.45,3.0
+admin.,Sin Información,40-49,divorced,3,0,0.0,1.58,3.0
+blue-collar,illiterate,40-49,married,4,0,0.0,8.82,1.25
+entrepreneur,basic.4y,40-49,divorced,2,0,0.0,2.04,1.5
+entrepreneur,basic.6y,40-49,divorced,1,0,0.0,2.2,1.0
+housemaid,Sin Información,40-49,single,1,0,0.0,3.9,2.0
+retired,professional.course,40-49,divorced,4,0,0.0,2.98,3.25
+retired,basic.9y,40-49,single,1,0,0.0,1.92,1.0
+self-employed,basic.6y,40-49,single,1,0,0.0,4.13,2.0
+Sin Información,Sin Información,40-49,divorced,1,0,0.0,3.15,1.0
+Sin Información,professional.course,40-49,married,1,0,0.0,2.82,9.0
+student,Sin Información,40-49,single,5,2,40.0,4.8,3.6
+technician,basic.6y,40-49,single,1,0,0.0,0.13,9.0
+unemployed,basic.6y,40-49,divorced,2,0,0.0,2.86,2.0
+retired,university.degree,40-49,divorced,2,0,0.0,4.56,3.0
+retired,basic.6y,40-49,married,2,0,0.0,5.23,1.5
+self-employed,basic.9y,40-49,single,4,0,0.0,5.18,4.25
+services,basic.4y,40-49,divorced,7,1,14.29,6.61,3.43
+Sin Información,basic.9y,40-49,married,2,0,0.0,4.51,2.0
+Sin Información,basic.4y,40-49,single,1,0,0.0,3.15,5.0
+Sin Información,high.school,40-49,single,1,0,0.0,1.38,3.0
+technician,basic.6y,40-49,Sin Información,1,0,0.0,3.28,1.0
+unemployed,professional.course,40-49,single,2,0,0.0,4.42,2.0
+blue-collar,Sin Información,40-49,Sin Información,1,0,0.0,2.7,7.0
+management,basic.4y,40-49,divorced,2,0,0.0,3.69,3.5
+management,professional.course,40-49,divorced,1,0,0.0,2.65,2.0
+retired,university.degree,40-49,married,2,0,0.0,9.98,6.0
+services,basic.4y,40-49,single,5,0,0.0,3.13,3.0
+Sin Información,basic.4y,40-49,married,6,0,0.0,3.73,1.67
+retired,basic.6y,40-49,single,5,0,0.0,3.73,3.2
+self-employed,Sin Información,40-49,single,1,0,0.0,3.37,1.0
+Sin Información,basic.4y,40-49,divorced,1,0,0.0,1.57,1.0
+admin.,basic.4y,40-49,divorced,1,0,0.0,3.78,1.0
+admin.,basic.4y,40-49,single,1,0,0.0,5.67,2.0
+retired,Sin Información,40-49,married,1,0,0.0,0.15,5.0
+unemployed,basic.9y,40-49,single,3,1,33.33,3.57,1.33
+admin.,university.degree,40-49,Sin Información,2,1,50.0,13.51,1.0
+management,professional.course,40-49,single,1,0,0.0,4.13,1.0
+self-employed,Sin Información,40-49,divorced,2,0,0.0,6.12,1.0
+unemployed,high.school,40-49,Sin Información,1,0,0.0,1.22,1.0
+admin.,basic.4y,50-59,divorced,3,2,66.67,5.26,6.0
+admin.,basic.9y,50-59,divorced,27,1,3.7,3.05,2.67
+admin.,high.school,50-59,divorced,69,10,14.49,4.03,2.22
+admin.,university.degree,50-59,divorced,186,21,11.29,4.54,2.64
+admin.,basic.4y,50-59,married,34,3,8.82,4.83,2.18
+admin.,basic.6y,50-59,married,22,0,0.0,3.24,2.09
+admin.,basic.9y,50-59,married,76,10,13.16,4.08,2.88
+admin.,high.school,50-59,married,255,22,8.63,3.85,2.68
+admin.,professional.course,50-59,married,38,9,23.68,6.04,2.74
+admin.,Sin Información,50-59,married,39,9,23.08,4.96,2.56
+admin.,university.degree,50-59,married,404,66,16.34,4.26,3.0
+admin.,basic.9y,50-59,single,8,1,12.5,4.58,1.5
+admin.,high.school,50-59,single,24,5,20.83,4.5,2.58
+admin.,university.degree,50-59,single,76,15,19.74,3.94,2.3
+blue-collar,basic.4y,50-59,divorced,82,8,9.76,3.89,2.54
+blue-collar,basic.6y,50-59,divorced,13,1,7.69,5.44,3.92
+blue-collar,basic.9y,50-59,divorced,41,2,4.88,4.56,3.17
+blue-collar,high.school,50-59,divorced,12,2,16.67,3.31,2.92
+blue-collar,professional.course,50-59,divorced,8,2,25.0,3.64,1.88
+blue-collar,basic.4y,50-59,married,538,42,7.81,4.51,2.7
+blue-collar,basic.6y,50-59,married,89,10,11.24,4.02,3.01
+blue-collar,basic.9y,50-59,married,373,25,6.7,4.56,2.41
+blue-collar,high.school,50-59,married,49,6,12.24,4.86,2.35
+blue-collar,professional.course,50-59,married,50,4,8.0,5.47,2.82
+blue-collar,Sin Información,50-59,married,70,3,4.29,4.35,2.29
+blue-collar,university.degree,50-59,married,5,0,0.0,1.98,2.8
+blue-collar,basic.4y,50-59,single,17,0,0.0,6.57,2.0
+blue-collar,basic.9y,50-59,single,26,5,19.23,4.58,1.96
+blue-collar,professional.course,50-59,single,1,0,0.0,7.08,2.0
+entrepreneur,university.degree,50-59,divorced,37,2,5.41,3.4,3.3
+entrepreneur,basic.4y,50-59,married,33,1,3.03,4.09,3.09
+entrepreneur,basic.9y,50-59,married,47,4,8.51,4.05,2.98
+entrepreneur,high.school,50-59,married,14,0,0.0,4.44,1.93
+entrepreneur,professional.course,50-59,married,22,2,9.09,5.89,1.73
+entrepreneur,Sin Información,50-59,married,16,1,6.25,3.44,2.25
+entrepreneur,university.degree,50-59,married,103,6,5.83,4.11,2.3
+housemaid,basic.4y,50-59,divorced,30,1,3.33,4.08,3.2
+housemaid,high.school,50-59,divorced,13,0,0.0,4.92,2.54
+housemaid,professional.course,50-59,divorced,3,1,33.33,5.11,2.0
+housemaid,basic.4y,50-59,married,137,13,9.49,4.26,2.68
+housemaid,basic.6y,50-59,married,16,2,12.5,5.16,2.44
+housemaid,basic.9y,50-59,married,20,0,0.0,3.31,3.4
+housemaid,Sin Información,50-59,married,19,3,15.79,2.61,1.84
+housemaid,Sin Información,50-59,single,3,1,33.33,9.62,2.0
+management,high.school,50-59,divorced,12,0,0.0,4.32,2.42
+management,professional.course,50-59,divorced,8,1,12.5,2.93,2.38
+management,university.degree,50-59,divorced,105,13,12.38,4.2,2.54
+management,basic.4y,50-59,married,50,2,4.0,4.57,3.26
+management,basic.6y,50-59,married,22,2,9.09,4.18,3.18
+management,basic.9y,50-59,married,31,3,9.68,4.42,3.87
+management,high.school,50-59,married,37,3,8.11,3.35,3.05
+management,professional.course,50-59,married,22,2,9.09,4.81,2.18
+management,Sin Información,50-59,married,24,1,4.17,3.94,2.54
+management,university.degree,50-59,married,362,46,12.71,4.43,2.42
+management,university.degree,50-59,single,11,1,9.09,4.29,1.91
+retired,basic.4y,50-59,divorced,44,4,9.09,3.99,2.66
+retired,high.school,50-59,divorced,29,4,13.79,4.41,3.45
+retired,basic.4y,50-59,married,196,29,14.8,4.65,2.65
+retired,professional.course,50-59,married,93,14,15.05,4.37,2.72
+retired,university.degree,50-59,married,92,11,11.96,4.49,2.83
+retired,university.degree,50-59,single,7,0,0.0,3.99,2.29
+self-employed,university.degree,50-59,divorced,13,1,7.69,6.35,2.62
+self-employed,basic.4y,50-59,married,31,1,3.23,3.89,2.48
+self-employed,basic.9y,50-59,married,36,4,11.11,5.19,2.75
+self-employed,high.school,50-59,married,10,1,10.0,3.34,3.6
+self-employed,professional.course,50-59,married,21,2,9.52,3.64,5.48
+self-employed,Sin Información,50-59,married,7,0,0.0,4.86,1.71
+self-employed,university.degree,50-59,married,115,9,7.83,4.67,2.59
+self-employed,basic.6y,50-59,Sin Información,2,0,0.0,11.38,2.0
+self-employed,basic.9y,50-59,single,4,1,25.0,3.01,1.75
+self-employed,university.degree,50-59,single,10,0,0.0,3.02,2.3
+services,basic.4y,50-59,divorced,15,0,0.0,1.83,2.93
+services,basic.6y,50-59,divorced,9,1,11.11,5.2,1.33
+services,basic.9y,50-59,divorced,4,0,0.0,4.92,2.0
+services,high.school,50-59,divorced,70,6,8.57,4.62,2.74
+services,professional.course,50-59,divorced,7,0,0.0,4.45,5.14
+services,Sin Información,50-59,divorced,5,0,0.0,3.74,2.8
+services,basic.4y,50-59,married,33,2,6.06,4.19,2.15
+services,basic.6y,50-59,married,26,2,7.69,3.28,2.19
+services,basic.9y,50-59,married,25,2,8.0,3.12,2.84
+services,high.school,50-59,married,219,14,6.39,3.99,3.11
+services,professional.course,50-59,married,12,0,0.0,2.92,4.0
+services,Sin Información,50-59,married,26,1,3.85,3.54,1.81
+services,university.degree,50-59,married,11,1,9.09,3.32,2.36
+services,basic.4y,50-59,single,4,0,0.0,6.03,4.0
+services,basic.6y,50-59,single,7,0,0.0,5.91,1.0
+services,high.school,50-59,single,29,1,3.45,3.71,2.79
+Sin Información,basic.4y,50-59,married,27,3,11.11,4.13,3.56
+Sin Información,Sin Información,50-59,married,38,4,10.53,2.85,3.74
+Sin Información,Sin Información,50-59,single,2,0,0.0,5.89,1.0
+technician,basic.9y,50-59,divorced,12,0,0.0,2.11,3.5
+technician,professional.course,50-59,divorced,63,4,6.35,3.98,2.63
+technician,university.degree,50-59,divorced,41,3,7.32,3.16,2.66
+technician,basic.6y,50-59,married,18,1,5.56,4.59,3.61
+technician,basic.9y,50-59,married,60,9,15.0,4.71,2.78
+technician,high.school,50-59,married,97,13,13.4,4.76,2.36
+technician,professional.course,50-59,married,346,41,11.85,4.15,2.44
+technician,Sin Información,50-59,married,41,2,4.88,4.14,2.15
+technician,university.degree,50-59,married,108,13,12.04,4.17,2.94
+technician,basic.4y,50-59,single,2,0,0.0,2.54,3.0
+technician,high.school,50-59,single,3,0,0.0,1.27,3.33
+technician,professional.course,50-59,single,31,3,9.68,4.82,2.71
+technician,university.degree,50-59,single,26,3,11.54,4.96,2.31
+unemployed,basic.4y,50-59,married,22,4,18.18,4.47,3.23
+unemployed,basic.9y,50-59,married,32,7,21.88,4.92,1.91
+unemployed,high.school,50-59,married,30,2,6.67,3.67,3.7
+unemployed,professional.course,50-59,married,22,2,9.09,5.09,1.86
+unemployed,basic.9y,50-59,Sin Información,2,0,0.0,3.48,3.5
+unemployed,university.degree,50-59,Sin Información,1,0,0.0,2.77,2.0
+admin.,professional.course,50-59,divorced,14,2,14.29,3.82,1.79
+admin.,Sin Información,50-59,divorced,21,2,9.52,3.6,2.76
+admin.,illiterate,50-59,married,1,0,0.0,2.52,4.0
+admin.,basic.6y,50-59,single,9,1,11.11,3.61,1.56
+blue-collar,Sin Información,50-59,divorced,20,0,0.0,3.74,3.15
+blue-collar,illiterate,50-59,single,1,0,0.0,4.32,3.0
+entrepreneur,high.school,50-59,divorced,11,2,18.18,6.05,2.91
+entrepreneur,Sin Información,50-59,divorced,5,0,0.0,3.36,4.2
+entrepreneur,basic.6y,50-59,married,7,0,0.0,2.19,4.43
+entrepreneur,illiterate,50-59,married,2,1,50.0,7.71,2.5
+entrepreneur,basic.9y,50-59,single,6,1,16.67,5.64,2.33
+entrepreneur,Sin Información,50-59,single,2,1,50.0,5.33,2.0
+entrepreneur,university.degree,50-59,single,7,1,14.29,3.5,2.29
+housemaid,high.school,50-59,married,19,3,15.79,3.3,3.53
+housemaid,university.degree,50-59,married,18,3,16.67,4.93,2.61
+retired,basic.9y,50-59,divorced,12,3,25.0,4.39,4.0
+retired,professional.course,50-59,divorced,30,1,3.33,3.51,3.17
+retired,university.degree,50-59,divorced,39,5,12.82,4.39,2.33
+retired,basic.9y,50-59,married,67,6,8.96,5.02,3.3
+retired,high.school,50-59,married,111,14,12.61,5.14,2.8
+technician,high.school,50-59,divorced,13,2,15.38,3.83,2.31
+technician,Sin Información,50-59,divorced,7,0,0.0,3.87,4.0
+technician,basic.9y,50-59,single,2,0,0.0,3.37,3.0
+unemployed,high.school,50-59,divorced,10,0,0.0,4.44,2.1
+unemployed,university.degree,50-59,divorced,7,1,14.29,3.48,2.71
+unemployed,basic.6y,50-59,married,5,2,40.0,3.42,1.8
+admin.,basic.6y,50-59,divorced,6,0,0.0,4.31,3.83
+admin.,basic.4y,50-59,single,1,0,0.0,12.93,4.0
+admin.,Sin Información,50-59,single,9,0,0.0,3.49,2.11
+blue-collar,basic.4y,50-59,Sin Información,3,1,33.33,12.29,1.67
+blue-collar,high.school,50-59,single,1,0,0.0,2.07,1.0
+blue-collar,Sin Información,50-59,single,9,0,0.0,2.39,3.78
+entrepreneur,basic.4y,50-59,divorced,1,0,0.0,1.15,4.0
+housemaid,basic.9y,50-59,divorced,1,0,0.0,4.53,2.0
+housemaid,basic.4y,50-59,single,3,0,0.0,2.68,6.67
+housemaid,university.degree,50-59,single,2,0,0.0,1.66,2.0
+retired,basic.6y,50-59,divorced,2,0,0.0,3.19,2.0
+retired,basic.6y,50-59,married,34,1,2.94,4.02,2.76
+retired,basic.9y,50-59,single,2,0,0.0,2.13,4.0
+self-employed,basic.9y,50-59,divorced,3,0,0.0,1.46,2.67
+self-employed,basic.4y,50-59,single,2,0,0.0,3.53,11.5
+self-employed,professional.course,50-59,single,1,0,0.0,2.32,1.0
+services,professional.course,50-59,Sin Información,1,0,0.0,0.12,2.0
+Sin Información,basic.6y,50-59,married,2,0,0.0,0.99,2.5
+Sin Información,professional.course,50-59,married,4,0,0.0,2.3,1.5
+technician,basic.4y,50-59,married,28,4,14.29,5.25,1.82
+unemployed,Sin Información,50-59,married,5,0,0.0,5.36,3.4
+unemployed,university.degree,50-59,married,18,1,5.56,4.81,1.89
+unemployed,basic.4y,50-59,single,3,0,0.0,2.7,4.67
+admin.,professional.course,50-59,single,3,0,0.0,3.74,2.33
+housemaid,basic.6y,50-59,divorced,5,0,0.0,1.9,1.8
+housemaid,professional.course,50-59,married,12,1,8.33,6.5,3.25
+management,professional.course,50-59,single,3,0,0.0,2.12,3.67
+retired,basic.4y,50-59,single,6,1,16.67,2.41,4.0
+retired,professional.course,50-59,single,10,1,10.0,7.35,1.9
+self-employed,basic.4y,50-59,divorced,1,0,0.0,1.37,2.0
+self-employed,professional.course,50-59,divorced,4,0,0.0,5.22,1.25
+services,university.degree,50-59,divorced,7,1,14.29,3.56,4.0
+services,Sin Información,50-59,Sin Información,1,0,0.0,6.37,5.0
+Sin Información,basic.9y,50-59,married,3,1,33.33,3.17,1.33
+Sin Información,high.school,50-59,married,8,0,0.0,3.76,1.75
+unemployed,basic.9y,50-59,divorced,3,1,33.33,4.07,3.0
+unemployed,basic.9y,50-59,single,1,0,0.0,2.08,2.0
+blue-collar,illiterate,50-59,married,3,0,0.0,1.69,2.0
+blue-collar,basic.6y,50-59,Sin Información,1,0,0.0,13.87,18.0
+housemaid,Sin Información,50-59,divorced,8,0,0.0,2.62,3.25
+housemaid,university.degree,50-59,divorced,6,1,16.67,5.03,1.5
+housemaid,basic.4y,50-59,Sin Información,1,0,0.0,3.3,13.0
+housemaid,basic.9y,50-59,single,2,0,0.0,5.93,1.0
+management,basic.6y,50-59,divorced,3,0,0.0,3.18,2.67
+management,basic.9y,50-59,single,3,0,0.0,3.99,2.0
+retired,high.school,50-59,single,15,0,0.0,6.26,2.07
+self-employed,high.school,50-59,divorced,2,0,0.0,2.15,2.5
+services,basic.9y,50-59,single,2,1,50.0,7.39,1.0
+unemployed,basic.6y,50-59,single,1,0,0.0,1.52,1.0
+blue-collar,basic.6y,50-59,single,3,0,0.0,3.25,2.0
+entrepreneur,basic.9y,50-59,divorced,3,2,66.67,7.07,3.0
+entrepreneur,professional.course,50-59,divorced,3,0,0.0,3.49,4.67
+management,basic.4y,50-59,single,4,0,0.0,2.69,3.0
+management,Sin Información,50-59,single,1,0,0.0,5.7,2.0
+Sin Información,university.degree,50-59,married,3,1,33.33,3.77,1.0
+Sin Información,Sin Información,50-59,Sin Información,1,0,0.0,3.83,1.0
+technician,Sin Información,50-59,Sin Información,1,0,0.0,11.12,3.0
+unemployed,professional.course,50-59,divorced,4,0,0.0,2.64,1.75
+management,basic.9y,50-59,divorced,1,0,0.0,5.22,2.0
+management,Sin Información,50-59,divorced,2,2,100.0,9.77,4.5
+retired,Sin Información,50-59,married,30,1,3.33,2.82,2.03
+Sin Información,basic.4y,50-59,divorced,1,0,0.0,9.12,12.0
+Sin Información,basic.9y,50-59,single,3,0,0.0,2.69,5.0
+technician,basic.6y,50-59,divorced,3,0,0.0,1.19,4.33
+unemployed,basic.4y,50-59,divorced,4,4,100.0,5.41,2.5
+retired,basic.4y,50-59,Sin Información,2,0,0.0,7.04,5.5
+retired,Sin Información,50-59,single,3,0,0.0,2.67,10.0
+self-employed,high.school,50-59,single,3,0,0.0,7.86,2.33
+technician,basic.4y,50-59,divorced,2,0,0.0,4.89,2.0
+blue-collar,basic.9y,50-59,Sin Información,1,0,0.0,3.0,6.0
+housemaid,professional.course,50-59,single,5,1,20.0,3.31,1.2
+management,university.degree,50-59,Sin Información,2,0,0.0,3.19,5.0
+self-employed,Sin Información,50-59,divorced,1,0,0.0,8.18,2.0
+self-employed,basic.6y,50-59,married,2,0,0.0,1.97,6.5
+retired,Sin Información,50-59,divorced,1,0,0.0,6.88,2.0
+retired,university.degree,50-59,Sin Información,1,0,0.0,4.22,1.0
+technician,basic.6y,50-59,single,2,0,0.0,2.23,1.0
+admin.,high.school,60+,divorced,6,0,0.0,2.32,1.17
+admin.,professional.course,60+,divorced,1,1,100.0,8.02,1.0
+admin.,basic.9y,60+,married,5,1,20.0,2.26,3.4
+admin.,high.school,60+,married,23,13,56.52,4.46,1.91
+admin.,professional.course,60+,married,7,3,42.86,4.44,1.43
+admin.,Sin Información,60+,married,8,5,62.5,6.3,1.75
+admin.,university.degree,60+,married,39,15,38.46,6.35,2.46
+admin.,high.school,60+,single,3,0,0.0,6.67,1.33
+admin.,university.degree,60+,single,2,0,0.0,1.62,1.0
+blue-collar,basic.4y,60+,divorced,2,0,0.0,2.74,2.0
+blue-collar,basic.4y,60+,married,21,2,9.52,2.7,1.71
+blue-collar,basic.9y,60+,married,5,1,20.0,4.33,1.4
+blue-collar,professional.course,60+,married,3,2,66.67,4.72,2.0
+blue-collar,Sin Información,60+,married,7,1,14.29,3.05,2.86
+entrepreneur,basic.4y,60+,married,8,0,0.0,2.87,1.88
+entrepreneur,Sin Información,60+,married,1,0,0.0,2.17,2.0
+housemaid,professional.course,60+,divorced,3,2,66.67,6.62,2.0
+housemaid,basic.4y,60+,married,38,21,55.26,5.22,2.03
+housemaid,high.school,60+,married,4,1,25.0,6.69,1.5
+housemaid,illiterate,60+,married,1,0,0.0,2.93,7.0
+housemaid,university.degree,60+,married,2,0,0.0,2.53,2.0
+management,university.degree,60+,divorced,3,1,33.33,8.45,2.0
+management,basic.4y,60+,married,2,1,50.0,1.63,3.0
+management,professional.course,60+,married,3,0,0.0,4.67,2.33
+management,Sin Información,60+,married,10,5,50.0,4.45,1.6
+management,university.degree,60+,married,33,11,33.33,4.78,2.58
+management,university.degree,60+,single,1,1,100.0,3.23,1.0
+retired,basic.4y,60+,divorced,103,46,44.66,4.31,1.97
+retired,high.school,60+,divorced,22,8,36.36,3.89,2.09
+retired,professional.course,60+,divorced,17,6,35.29,6.06,2.71
+retired,university.degree,60+,divorced,16,4,25.0,5.32,2.81
+retired,basic.4y,60+,married,206,101,49.03,4.68,1.99
+retired,basic.6y,60+,married,23,6,26.09,3.62,2.26
+retired,basic.9y,60+,married,34,8,23.53,3.56,1.94
+retired,high.school,60+,married,81,33,40.74,5.44,2.05
+retired,professional.course,60+,married,79,34,43.04,4.17,1.86
+retired,Sin Información,60+,married,51,24,47.06,4.88,1.9
+retired,university.degree,60+,married,109,43,39.45,4.82,1.94
+retired,high.school,60+,single,1,0,0.0,2.27,4.0
+self-employed,university.degree,60+,divorced,3,1,33.33,1.53,1.67
+self-employed,basic.9y,60+,married,1,0,0.0,0.28,13.0
+self-employed,professional.course,60+,married,5,0,0.0,2.82,3.0
+self-employed,university.degree,60+,married,10,1,10.0,2.19,2.0
+self-employed,basic.9y,60+,single,1,0,0.0,0.18,5.0
+services,basic.4y,60+,married,1,0,0.0,12.78,7.0
+services,high.school,60+,married,3,0,0.0,2.12,2.33
+services,Sin Información,60+,married,4,0,0.0,5.72,1.25
+Sin Información,basic.4y,60+,married,2,0,0.0,6.41,1.5
+Sin Información,basic.6y,60+,married,1,0,0.0,1.73,7.0
+Sin Información,Sin Información,60+,married,11,5,45.45,3.56,2.36
+Sin Información,university.degree,60+,married,4,0,0.0,2.68,1.25
+Sin Información,Sin Información,60+,single,2,0,0.0,2.04,2.5
+technician,professional.course,60+,divorced,6,1,16.67,3.19,2.67
+technician,basic.4y,60+,married,2,1,50.0,6.07,4.0
+technician,high.school,60+,married,2,2,100.0,6.38,5.5
+technician,professional.course,60+,married,18,4,22.22,3.0,2.11
+technician,university.degree,60+,married,4,0,0.0,1.03,4.0
+unemployed,basic.4y,60+,married,2,1,50.0,8.79,1.5
+unemployed,basic.6y,60+,married,1,0,0.0,1.58,1.0
+unemployed,high.school,60+,married,2,1,50.0,12.59,1.5
+blue-collar,basic.6y,60+,married,1,1,100.0,6.72,1.0
+blue-collar,high.school,60+,married,4,1,25.0,4.03,3.0
+entrepreneur,university.degree,60+,married,4,3,75.0,6.82,1.0
+self-employed,high.school,60+,divorced,1,0,0.0,1.53,1.0
+Sin Información,basic.4y,60+,single,3,0,0.0,4.77,1.67
+admin.,university.degree,60+,divorced,4,1,25.0,4.25,2.5
+entrepreneur,basic.9y,60+,married,1,0,0.0,6.1,2.0
+housemaid,professional.course,60+,married,1,1,100.0,2.35,2.0
+management,high.school,60+,divorced,1,1,100.0,6.75,1.0
+retired,university.degree,60+,single,15,3,20.0,3.38,2.93
+Sin Información,professional.course,60+,married,2,0,0.0,4.27,2.0
+technician,Sin Información,60+,married,17,7,41.18,3.83,1.76
+housemaid,basic.9y,60+,married,1,0,0.0,2.73,1.0
+housemaid,Sin Información,60+,married,2,1,50.0,6.61,2.5
+management,high.school,60+,married,2,1,50.0,6.75,1.5
+unemployed,basic.9y,60+,divorced,1,0,0.0,10.07,2.0
+unemployed,university.degree,60+,married,1,0,0.0,4.13,1.0
+housemaid,basic.4y,60+,divorced,14,5,35.71,3.7,2.86
+retired,basic.9y,60+,Sin Información,2,1,50.0,9.59,2.5
+retired,basic.4y,60+,single,4,3,75.0,5.45,2.75
+Sin Información,Sin Información,60+,divorced,4,3,75.0,3.03,1.5
+unemployed,basic.4y,60+,single,3,1,33.33,13.5,4.33
+admin.,basic.4y,60+,married,8,5,62.5,7.84,1.63
+management,basic.9y,60+,married,1,0,0.0,1.62,1.0
+entrepreneur,high.school,60+,married,3,2,66.67,2.57,2.0
+retired,basic.9y,60+,divorced,2,0,0.0,3.78,1.5
+retired,Sin Información,60+,single,1,1,100.0,3.13,3.0
+housemaid,basic.6y,60+,married,1,0,0.0,2.28,1.0
+retired,basic.6y,60+,divorced,6,3,50.0,4.3,1.67
+retired,professional.course,60+,single,2,1,50.0,3.39,4.0
+management,basic.9y,60+,single,1,0,0.0,1.4,2.0
+retired,Sin Información,60+,divorced,8,7,87.5,4.59,1.88
+management,professional.course,60+,divorced,1,1,100.0,2.63,2.0
+retired,illiterate,60+,married,1,1,100.0,2.08,1.0
+retired,basic.9y,60+,single,1,1,100.0,15.92,1.0
